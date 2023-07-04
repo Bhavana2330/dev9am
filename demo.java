@@ -1,3 +1,12 @@
+void BRANCH-CODE()
+{
+   .... branch code ....
+   .... branch code ....
+   .... branch code ....
+}
+
+
+
 class Demo
 {
   public static void main(...)
