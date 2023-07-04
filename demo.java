@@ -6,6 +6,13 @@ void MAIN-CODE()
   **** main code *****
 }
 
+void BRANCH-CODE()
+{
+   .... branch code ....
+   .... branch code ....
+   .... branch code ....
+}
+
 
 
 class Demo
